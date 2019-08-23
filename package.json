@@ -1,0 +1,22 @@
+{
+  "name": "@nuxtjs/mdi-font",
+  "version": "1.0.0",
+  "description": "Material Design Icons for Nuxt app",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Chung Tran <chungtran4078@gmail.com>"
+    }
+  ],
+  "main": "lib/module.js",
+  "repository": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@mdi/font": "^4.1.95"
+  }
+}
