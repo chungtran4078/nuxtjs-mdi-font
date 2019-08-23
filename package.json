@@ -1,7 +1,12 @@
 {
-  "name": "@nuxtjs/mdi-font",
+  "name": "nuxtjs-mdi-font",
   "version": "1.0.0",
   "description": "Material Design Icons for Nuxt app",
+  "keywords": [
+    "nuxt",
+    "mdi",
+    "Material Design Icons"
+  ],
   "license": "MIT",
   "contributors": [
     {
@@ -9,7 +14,10 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "",
+  "repository": {
+	"type": "git",
+    "url": "git+https://github.com/chungtran4078/nuxtjs-mdi-font.git"
+  },
   "publishConfig": {
     "access": "public"
   },
