@@ -26,6 +26,8 @@ yarn add nuxtjs-mdi-font # or npm install nuxtjs-mdi-font
 }
 ```
 
+__** Tips:__ If it not work, let's restart server. (`Ctrl + C` then `yarn dev`)
+
 ## Usage
 
 ```html
